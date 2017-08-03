@@ -1,0 +1,6 @@
+C:\Files\ConsolaC#\ConsoleFactorial\ConsoleFactorial\bin\Debug\ConsoleFactorial.exe.config
+C:\Files\ConsolaC#\ConsoleFactorial\ConsoleFactorial\bin\Debug\ConsoleFactorial.exe
+C:\Files\ConsolaC#\ConsoleFactorial\ConsoleFactorial\bin\Debug\ConsoleFactorial.pdb
+C:\Files\ConsolaC#\ConsoleFactorial\ConsoleFactorial\obj\Debug\ConsoleFactorial.csprojResolveAssemblyReference.cache
+C:\Files\ConsolaC#\ConsoleFactorial\ConsoleFactorial\obj\Debug\ConsoleFactorial.exe
+C:\Files\ConsolaC#\ConsoleFactorial\ConsoleFactorial\obj\Debug\ConsoleFactorial.pdb
