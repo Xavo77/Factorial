@@ -1,0 +1,2 @@
+# Factorial
+Cycle to factorial
